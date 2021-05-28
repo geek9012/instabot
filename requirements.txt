@@ -1,0 +1,5 @@
+# Used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+streamlit>=0.82.0
+instaloader>=4.7.1
